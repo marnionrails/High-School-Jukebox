@@ -73,5 +73,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * _Cat Denton <willwdenton@gmail.com>_ 
 * _Faisal Rana <inquisitive@gmail.com>_
 * _Karlson Drendel <kdrendel99@gmail.com>_
-* _Marni Sucher <marni>_
+* _Marni Sucher <suchermarni@gmail.com>_
 * _Sofia Acosta <sofiaacostarascon@gmail.com>_
